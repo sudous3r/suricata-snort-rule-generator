@@ -18,7 +18,7 @@ This Python script, `rule_generator.py`, allows users to generate Suricata or Sn
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/suricata-snort-rule-generator.git
+    git clone https://github.com/sudous3r/suricata-snort-rule-generator.git
     ```
 
 2. **Navigate to the project directory**:
